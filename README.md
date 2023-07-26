@@ -1,0 +1,1 @@
+# pytest-fixture-scope-example
