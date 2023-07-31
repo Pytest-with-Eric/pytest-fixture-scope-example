@@ -1,4 +1,4 @@
-from math_operations.operations import MockDB
+from db_connection.db_connect import MockDB
 import pytest
 
 @pytest.fixture(scope='function')
