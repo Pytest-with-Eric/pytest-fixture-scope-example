@@ -3,11 +3,11 @@ import pytest
 import smtplib
 
 
-@pytest.fixture(scope='function', autouse=True)
+@pytest.fixture(scope="module", autouse=True)
 def smtp_connection() -> smtplib.SMTP:
     """
     A fixture to create an SMTP connection.
-    
+
     Returns:
         An SMTP connection
     """
