@@ -1,11 +1,11 @@
-# Understanding Pytest Fixture Scope: A Practical Approach
+# Pytest Fixture Scope Example
 
-This repo contains the sample code for the article - [Understanding Pytest Fixture Scope: A Practical Approach](https://pytest-with-eric.com/)
+This repo contains the sample code for the article - [What Are Pytest Fixture Scopes? (How To Choose The Best Scope For Your Test)](https://pytest-with-eric.com/pytest-advanced/pytest-fixture-scope/)
 
-This project is a simple example of how to use Pytest Fixtures scope.
+This project is a simple example of what are Pytest Fixtures scopes and how to use them.
 
 # Requirements
-* Python (≥ 3.9)
+* Python 3.11.4
 
 Please install the dependencies via the `requirements.txt` file using 
 ```commandline
